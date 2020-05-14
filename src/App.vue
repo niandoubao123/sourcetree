@@ -2,6 +2,7 @@
   <div id="app" class="biggbox">
     <!-- 在中部 -->
     <!-- 第一次 -->
+    <!-- 第二次develop上 -->
     <transition>
       <router-view></router-view>
     </transition>
