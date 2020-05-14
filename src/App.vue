@@ -1,10 +1,7 @@
 <template>
   <div id="app" class="biggbox">
     <!-- 在中部 -->
-    <!-- 第三次的在分支上 -->
-    <!-- 第五次还在分支上 -->
-    <!-- 第六次还在develop上 -->
-    <!-- 第八次 -->
+    <!-- 第一次 -->
     <transition>
       <router-view></router-view>
     </transition>
